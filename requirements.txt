@@ -14,7 +14,7 @@ Pygame Menu is another library (separate from pygame) that must be installed, wi
 
 How to install these libraries?
 
-  Before you start installing Pygame and Pygame menu, you must install pip. "PIP is a package management system used to install and manage software packages written in Python. It stands for “preferred installer program” or “Pip Installs Packages". " 
+  Before you start installing Pygame and Pygame menu, you must install pip. "PIP is a package management system used to install and manage software packages written in Python. It stands for 'preferred installer program' or 'Pip Installs Packages'. " 
 
   Please follow this tutorial to install Pip if you are unsure on how to install it:
   https://phoenixnap.com/kb/install-pip-windows
@@ -28,6 +28,8 @@ Once Pip is installed, you can now install Pygame and Pygame Menu using your Win
 
   Please follow this tutorial to install Pygame and/or Pygame Menu if you are unsure on how to install it: 
   https://intercom.help/codakidonline/en/articles/2551585-how-to-install-pygame
+  
+Once you have completed all these steps you should be ready to play Feed the Worm: Extreme Edition!
   
 
 
