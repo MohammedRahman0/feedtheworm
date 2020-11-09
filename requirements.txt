@@ -4,25 +4,30 @@ Before you start playing, there are a couple steps you have to follow before you
 
 As you may or may not know already, Feed the Worm: Extreme Edition requires a couple of external pip libraries to be pre-installed. 
 
+
 1. Pygame - https://www.pygame.org/news
 Pygame is the library that enables the game to be run in its whole stature, all the objects are built using pygame methods, this must be installed. 
 
 2. Pygame Menu - https://pygame-menu.readthedocs.io/en/latest/
 Pygame Menu is another library (separate from pygame) that must be installed, without this you will have no Start Menu and will be greeted with a black screen instead. 
 
+
 How to install these libraries?
 
   Before you start installing Pygame and Pygame menu, you must install pip. "PIP is a package management system used to install and manage software packages written in Python. It stands for “preferred installer program” or “Pip Installs Packages". " 
 
-  Please follow this tutorial to install Pip if you are unsure on how to install it: https://phoenixnap.com/kb/install-pip-windows
+  Please follow this tutorial to install Pip if you are unsure on how to install it:
+  https://phoenixnap.com/kb/install-pip-windows
   
+
 Once Pip is installed, you can now install Pygame and Pygame Menu using your Windows Command Prompt (or subsitute depending on your operating system).
 
   Commands needed to install Pygame and Pygame Menu:
   pip install pygame
   pip install pygame_menu
 
-  Please follow this tutorial to install Pygame and/or Pygame Menu if you are unsure on how to install it: https://intercom.help/codakidonline/en/articles/2551585-how-to-install-pygame
+  Please follow this tutorial to install Pygame and/or Pygame Menu if you are unsure on how to install it: 
+  https://intercom.help/codakidonline/en/articles/2551585-how-to-install-pygame
   
 
 
