@@ -1,0 +1,11 @@
+Thanks for downloading Feed the Worm: Extreme Edition!
+
+Before you start playing, there are a couple steps you have to follow before you can successfully run the game.
+
+As you may or may not know already, Feed the Worm: Extreme Edition requires a couple of external libraries to be pre-installed. 
+
+1. Pygame - https://www.pygame.org/news
+Pygame is the library that enables the game to be run in its whole stature, all the objects are built using pygame methods, this must be installed. 
+
+2. Pygame Menu - https://pygame-menu.readthedocs.io/en/latest/
+Pygame Menu is another library (separate from pygame) that must be installed, without this you will have no Start Menu and will be greeted with a black screen instead. 
